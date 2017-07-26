@@ -1,0 +1,4 @@
+[12-Aug-2016 23:51:52 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/qxevrpcy/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[10-Oct-2016 05:02:39 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/qxevrpcy/public_html/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[10-Oct-2016 05:02:41 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/qxevrpcy/public_html/wp-content/plugins/contact-form-7/includes/mail.php on line 171
+[10-Oct-2016 05:02:43 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/qxevrpcy/public_html/wp-content/plugins/contact-form-7/includes/controller.php on line 3
